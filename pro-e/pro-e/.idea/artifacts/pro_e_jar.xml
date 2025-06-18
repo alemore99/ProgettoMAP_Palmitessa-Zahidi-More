@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="pro-e:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/pro_e_jar</output-path>
+    <root id="archive" name="pro-e.jar">
+      <element id="module-output" name="pro-e" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/netbeans/external/AbsoluteLayout/RELEASE250/AbsoluteLayout-RELEASE250.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
