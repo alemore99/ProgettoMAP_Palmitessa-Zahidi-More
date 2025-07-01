@@ -1,9 +1,0 @@
-Sono leggero come una piuma, ma nemmeno il più forte al mondo riesce a trattenermi per più di qualche minuto. Cosa sono?|Il silenzio;Il respiro;Il tempo;Il pensiero|b
-Ha una testa, una coda, ma non ha corpo. Cosa è?|Un serpente;Una matita;Una moneta;Un topo|c
-Entri in una stanza con due cani, quattro gatti, un topo e una giraffa. Quante gambe ci sono in totale?|2;12;20;16|a
-Non si muove mai, ma viaggia ovunque. Cos’è?|Il tempo;Un pensiero;Una cartina;Le critiche|c
-Mi trovi in una foresta, sono alto e verde, d’inverno mi spoglio, d’estate mi vesto. Chi sono?|Un albero;Un fiume;Un sasso;Un fungo|a
-Sono il re della foresta, ma non sono un animale. Offro ombra e rifugio, chi sono?|La quercia;Il leone;Il muschio;La volpe|a
-Cresco nel bosco, ma se mi tagli piango. Cosa sono?|Un albero;Un fungo;Un ruscello;Un cespuglio|a
-Sono fatto di legno, ma non sono un albero. Porto calore nelle case. Cosa sono?|La legna da ardere;Il carbone;La pietra;La sabbia|a
-Mi trovi tra le foglie, sono piccolo e rosso, spesso mi nascondo sotto un tronco. Chi sono?|Un fungo;Una ghianda;Una pigna;Un ramo|a
